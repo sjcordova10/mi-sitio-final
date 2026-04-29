@@ -1,0 +1,13 @@
+{
+  "productos": [
+    { "id": 1, "nombre": "Laptop", "precio": 999 },
+    { "id": 2, "nombre": "Mouse", "precio": 25 },
+    { "id": 3, "nombre": "Teclado", "precio": 45 },
+    { "id": 4, "nombre": "Producto Test", "precio": 100 }
+  ],
+  "categorias": [
+    { "id": 1, "nombre": "Electrónica" },
+    { "id": 2, "nombre": "Periféricos" },
+     { "id": 3, "nombre": "Categoría 3" }
+  ]
+}
